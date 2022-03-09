@@ -1,0 +1,31 @@
+#porgress-bar{
+    /* margin-top: 30px; */
+    position: relative;
+    margin-top: 3px;
+    width: 300px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+
+}
+
+#progress{
+   position: relative;
+   top: 0;
+   left: 0;
+    width: 0px;
+    background-color: green;
+    height: 30px;
+    
+     
+}
+#btn{
+
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.progress-section{
+    display: flex;
+    justify-content: right;
+}
